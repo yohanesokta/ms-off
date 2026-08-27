@@ -1,0 +1,1 @@
+powershell -NoProfile -Command "Invoke-WebRequest 'http://127.0.0.1/off' -Method GET -UseBasicParsing -TimeoutSec 5 | Out-Null"
