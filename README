@@ -1,0 +1,9 @@
+RUN HOST
+- do not run install.bat
+- extrack python in runtimes\python.zip
+- run run_server.bat ( copy ip only )
+
+RUN CLIENT
+- run install.bat
+- run run_client.bat
+- connect with host ip
